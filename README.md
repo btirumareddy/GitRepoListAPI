@@ -13,6 +13,8 @@ can change username in the RepoListView.swift class like below
 
  
 
+![Simulator Screenshot - iPhone 16 Pro Max - 2024-10-10 at 13 54 28](https://github.com/user-attachments/assets/5f7fdc20-2f32-4fb7-9385-0551b2d80df8)
 
-![Simulator Screenshot - iPhone 16 Pro Max - 2024-10-10 at 13 42 02](https://github.com/user-attachments/assets/c4e94fac-6566-4010-adbc-1fa5502bf6c1)
-![Simulator Screenshot - iPhone 16 Pro Max - 2024-10-10 at 13 41 56](https://github.com/user-attachments/assets/83b776db-afec-41ac-9979-2fbb028ad60b)
+
+
+![Simulator Screenshot - iPhone 16 Pro Max - 2024-10-10 at 13 41 56](https://github.com/user-attachments/assets/67f70619-0072-48f7-866c-e25321511c66)
